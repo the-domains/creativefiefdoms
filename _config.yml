@@ -1,7 +1,7 @@
 name: creativefiefdoms
 favicon: null
-layout_spectrum: 0.32910223049111664
-typography_spectrum: 0.8361505446955562
+layout_spectrum: 1
+typography_spectrum: 0.88825
 title: creative fiefdoms
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8024108107201755
-  lightness: 0.4642468460369855
-  saturation: 0.16061855456791818
-  rhythmicContrast: 0.02931490819901228
+    - '#ffffff'
+    - '#0d0e10'
+    - '#a38552'
+    - '#6a562a'
+    - '#c60000'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
