@@ -4,7 +4,7 @@
         <description><![CDATA[creative fiefdoms]]></description>
         <link>https://thegrid.ai/creativefiefdoms/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 19:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 19:37:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creativefiefdoms/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,20 @@
             <link>https://thegrid.ai/creativefiefdoms/dca0fe04-557a-42af-bad7-c48df5f9429d/index.html</link>
             <guid isPermaLink="false">dca0fe04-557a-42af-bad7-c48df5f9429d</guid>
             <pubDate>Fri, 15 Jan 2016 19:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69d82e7c-ff85-4f9a-ba1c-6f349cc59ae4.jpg">]]></description>
+            <link>https://thegrid.ai/creativefiefdoms/b453bc70-ce60-4ee5-b98d-9fdc6c543e20/index.html</link>
+            <guid isPermaLink="false">b453bc70-ce60-4ee5-b98d-9fdc6c543e20</guid>
+            <pubDate>Fri, 15 Jan 2016 19:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1510f609-5940-41ef-b791-22b6f6a92e70.jpg">]]></description>
+            <link>https://thegrid.ai/creativefiefdoms/4fc2ab8a-1125-4ebe-9087-212748b879eb/index.html</link>
+            <guid isPermaLink="false">4fc2ab8a-1125-4ebe-9087-212748b879eb</guid>
+            <pubDate>Fri, 15 Jan 2016 19:37:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +75,6 @@
             <link>https://thegrid.ai/creativefiefdoms/5b7d6e2e-e683-4dd5-8b42-a68607bfab1f/index.html</link>
             <guid isPermaLink="false">5b7d6e2e-e683-4dd5-8b42-a68607bfab1f</guid>
             <pubDate>Fri, 15 Jan 2016 19:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9628ae50-d0cb-4af0-be63-0dca1aa52b28.jpg">]]></description>
-            <link>https://thegrid.ai/creativefiefdoms/1c01b2f4-018a-47e9-b989-3ce4a6321104/index.html</link>
-            <guid isPermaLink="false">1c01b2f4-018a-47e9-b989-3ce4a6321104</guid>
-            <pubDate>Fri, 15 Jan 2016 19:34:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
