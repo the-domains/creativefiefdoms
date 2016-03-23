@@ -1,7 +1,7 @@
 name: creativefiefdoms
 favicon: null
 layout_spectrum: 0.70327
-typography_spectrum: 0.74182
+typography_spectrum: 0.30635
 title: creative fiefdoms
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#d4d4d4'
   brandStrength: 0.75
   lightness: 0
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
